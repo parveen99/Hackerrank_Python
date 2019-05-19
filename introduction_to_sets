@@ -1,0 +1,5 @@
+def average(array):
+    import statistics
+    # your code goes here
+    x=set(arr)
+    return (sum(x)/len(x))
